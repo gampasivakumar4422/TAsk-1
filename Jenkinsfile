@@ -21,7 +21,7 @@ pipeline{
         }
         stage('Image_Build'){
             steps{
-                sh 'docker build -t sivakumar/tomcat:$BUILD_ID .'
+                sh 'docker build -t sivakumar4422/tomcat:$BUILD_ID .'
             }
         }
         stage('Image_Push'){
