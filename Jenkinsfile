@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage('Code_Pull'){
             steps{
-                git branch: 'main', url: 'https://github.com/gampasivakumar4422/TAsk-1'
+                git branch: 'main', url: 'https://github.com/gampasivakumar4422/Task-1'
             }
         }
         stage('Code_Build'){
