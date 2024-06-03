@@ -9,8 +9,8 @@
 
     <name>SivaKumar</name>
 <properties> 
-     <sonar.host.url> http://3.6.88.34:9000 </sonar.host.url> 
-     <sonar.login> squ_864acc943533f1cb68582a14a77d99be5bf23b93 </sonar.login> 
+     <sonar.host.url> http://52.11.244.221:9000/ </sonar.host.url> 
+     <sonar.login> squ_ceb94e7df7c4be9a2682cab8aea4c245130e03e8 </sonar.login> 
  </properties> 
        
     <dependencies>
