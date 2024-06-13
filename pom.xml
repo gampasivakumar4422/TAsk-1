@@ -2,15 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.Gampa</groupId>
-    <artifactId>SivaKumar</artifactId>
+    <groupId>com.Gatla</groupId>
+    <artifactId>Gatla Sowmya</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>SivaKumar</name>
+    <name>Sowmya</name>
 <properties> 
-     <sonar.host.url> http://54.201.12.217:9000/ </sonar.host.url> 
-     <sonar.login> squ_118d3468a1263a33bc5c0d76208d3d1562fbbf6d </sonar.login> 
+     <sonar.host.url> http://15.236.38.43:9000/ </sonar.host.url> 
+     <sonar.login> squ_0321f561b1748328f4090633630c0fed30876a29 </sonar.login> 
  </properties> 
        
     <dependencies>
