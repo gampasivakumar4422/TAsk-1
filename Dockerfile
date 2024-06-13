@@ -1,7 +1,7 @@
 FROM tomcat:latest
 
-LABEL maintainer="SivaKumar"
+LABEL maintainer="Sowmya"
 
-COPY ./target/SivaKumar-1.0.war /usr/local/tomcat/webapps/Siva.war
+COPY ./target/Sowmya-1.0.war /usr/local/tomcat/webapps/Sowmya.war
 
 EXPOSE 8080
